@@ -1,7 +1,7 @@
 
 #yesButton {
     position: absolute;
-    margin-right: 350px;
+    margin-right: -150px;
     margin-top: 0px;
     /* Smooth movement */
 }
@@ -31,5 +31,5 @@
 }
 
 .continue {
-    margin-left: -600px;
+    margin-left: -100px;
 }
